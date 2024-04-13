@@ -1,7 +1,7 @@
 ### your site title here
 title: Md Majedul Islam
 description: Graduate Research Assistant, Kennesaw State University
-baseurl: "/majedrifat" #name of GitHub repository
+baseurl: "/majedrifat/" #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: mislam20@students.kennesaw.edu
 
