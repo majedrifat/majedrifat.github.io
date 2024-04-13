@@ -1,0 +1,75 @@
+I"b(<h2 id="journal-papers">Journal Papers</h2>
+
+<h2 id="conference-papers">Conference Papers</h2>
+
+<h4 id="2021">2021</h4>
+<ol reversed="reversed">
+  <li>
+    <p>Lorenzo Carnevale, Luisa Damiano, Antonio Fleres, and Massimo Villari. “<em>Visitor Artwork Ambient and how Making New Functions of Cultural Heritage by Using Augmented Reality within an Ambient Intelligence</em>”. 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). October 2021, pp. 8-12 (doi: <a href="https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013">10.1109/ISMAR-Adjunct54149.2021.00013</a>)</p>
+  </li>
+  <li>
+    <p>Lorenzo Carnevale, Armando Ruggeri, Francesco Martella, Antonio Celesti, Maria Fazio e Massimo Villari. “<em>Multi Hop Reconfiguration of End-Devices in Heterogeneous Edge-IoT Mesh Networks</em>”. 2021 IEEE Symposium on Computers and Communications (ISCC), Athenes, Greece, September 2021 (doi: <a href="https://doi.org/10.1109/ISCC53001.2021.9631500">10.1109/ISCC53001.2021.9631500</a>)</p>
+  </li>
+</ol>
+
+<h4 id="2020">2020</h4>
+<ol reversed="reversed">
+  <li>Emanuele Carlini, Lorenzo Carnevale, Massimo Coppola, Patrizio Dazzi, Gabriele Mencagli, Domenico Talia e Massimo Villari. “<em>An Osmotic Ecosystem for Data Streaming Applications in Smart Cities</em>”. Proceedings of the 1st Workshop on Flexible Resource and Application Management on the Edge (FRAME), Virtual Event, Sweden: Association for Computing Machinery, 2020, pp. 27–31 (ISBN: 9781450383844, doi: <a href="https://doi.org/10.1145/3452369.3463822">10.1145/3452369.3463822</a>)</li>
+</ol>
+
+<h4 id="2019">2019</h4>
+<ol reversed="reversed">
+  <li>Alina Buzachis and Antonino Galletta and Antonio Celesti and Lorenzo Carnevale and Massimo Villari. “<em>Towards Osmotic Computing: a Blue-Green Strategy for the Fast Re-Deployment of Microservices</em>”, 2019 IEEE Symposium on Computers and Communications (ISCC), Barcelona, Spain, June 2019, pp. 1-6 (doi: <a href="https://doi.org/10.1109/ISCC47284.2019.8969621">10.1109/ISCC47284.2019.8969621</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201906-paper-conference-ieee-iscc.bib">bibtex</a>]</li>
+</ol>
+
+<h4 id="2018">2018</h4>
+<ol reversed="reversed">
+  <li>
+    <p>Lorenzo Carnevale and Antonino Galletta and Maria Fazio and Antonio Celesti and Massimo Villari. “<em>Designing a FIWARE Cloud Solution for Making Your Travel Smoother: The FLIWARE Experience</em>”. 2018 IEEE 4th International Conference on Collaboration and Internet Computing (CIC), Philadelphia, PA, USA, October 2018, pp. 392-398 (doi: <a href="https://doi.org/10.1109/CIC.2018.00059">10.1109/CIC.2018.00059</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201810-paper-conference-ieee-cic.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Antonino Galletta and Lorenzo Carnevale and Alina Buzachis and Antonio Celesti and Massimo Villari. “<em>A Microservices-Based Platform for Efficiently Managing Oceanographic Data</em>”. 2018 4th International Conference on Big Data Innovations and Applications (Innovate-Data), Barcelona, Spain, August 2018, pp. 25-29 (doi: <a href="https://doi.org/10.1109/Innovate-Data.2018.00011">10.1109/Innovate-Data.2018.00011</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201808-paper-conference-ieee-innovate_data.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Massimo Villari and Antonino Galletta and Antonio Celesti and Lorenzo Carnevale and Maria Fazio. “<em>Osmotic Computing: Software Defined Membranes meet Private/Federated Blockchains</em>”. 2018 IEEE Symposium on Computers and Communications (ISCC), Natal, Brazil, June 2018, pp. 1292-1297 (doi: <a href="https://doi.org/10.1109/ISCC.2018.8538546">10.1109/ISCC.2018.8538546</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201806-paper-conference-ieee-iscc.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Lorenzo Carnevale and Antonio Celesti and Antonino Galletta and Schahram Dustdar and Massimo Villari. “<em>From the Cloud to Edge and IoT: a Smart Orchestration Architecture for Enabling Osmotic Computing</em>”. 2018 32nd International Conference on Advanced Information Networking and Applications Workshops (WAINA), Krakow, Poland, May 2018, pp. 419-424 (doi: <a href="https://doi.org/10.1109/WAINA.2018.00122">10.1109/WAINA.2018.00122</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201805-paper-conference-ieee-waina.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Alina Buzachis and Antonino Galletta and Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. “<em>Towards Osmotic Computing: Analyzing Overlay Network Solutions to Optimize the Deployment of Container-Based Microservices in Fog, Edge and IoT Environments</em>”. 2018 IEEE 2nd International Conference on Fog and Edge Computing (ICFEC), Washington, DC, USA, May 2018, pp. 1-10 (doi: <a href="https://doi.org/10.1109/CFEC.2018.8358729">10.1109/CFEC.2018.8358729</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201805-paper-conference-ieee-icfec.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Antonino Galletta and Salma Allam and Lorenzo Carnevale and Moulay Ali Bekri and Rachid El Ouahbi and Massimo Villari. “<em>An Innovative Methodology for Big Data Visualization in Oceanographic Domain</em>”. Proceedings of the International Conference on Geoinformatics and Data Analysis, ICGDA 18, Prague, Czech Republic, April 2018, pp. 103-107 (doi: <a href="https://doi.org/10.1145/3220228.3220238">10.1145/3220228.3220238</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201804-paper-conference-acm-icgda.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Salma Allam and Antonino Galletta and Lorenzo Carnevale and Moulay Ali Bekri and Rachid El Ouahbi and Massimo Villari. “<em>A Cloud Computing Workflow for Managing Oceanographic Data</em>”. Advances in Service-Oriented and Cloud Computing, ESOCC 2017, Oslo, Norwey, April 2018, pp. 73-85 (doi: <a href="https://doi.org/10.1007/978-3-319-79090-9_5">10.1007/978-3-319-79090-9_5</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201804-paper-conferencer-springer-esocc.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Giacomo Fiumara and Antonio Celesti and Antonino Galletta and Lorenzo Carnevale and Massimo Villari. “<em>Applying Artificial Intelligence in Healthcare Social Networks to Identity Critical Issues in Patients’ Posts</em>”. Proceedings of the 11th International Joint Conference on Biomedical Engineering Systems and Technologies - Volume 5 HEALTHINF: AI4Health, Funchal, Medeira, Portugal, January 2018 (doi: <a href="https://doi.org/10.5220/0006750606800687">10.5220/0006750606800687</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201801-paper-conference-scitepress-ai4health.bib">bibtex</a>]</p>
+  </li>
+</ol>
+
+<h4 id="2017">2017</h4>
+<ol reversed="reversed">
+  <li>
+    <p>Lorenzo Carnevale and Antonino Galletta and Antonio Celesti and Maria Fazio and Maurizio Paone and Placido Bramanti and Massimo Villari. “<em>Big Data HIS of the IRCCS-ME Future: The Osmotic Computing Infrastructure</em>”. Cloud Infrastructures, Services, and IoT Systems for Smart Cities, CN4IoT, Brindisi, Italy, October 2017, pp. 199-207 (doi:  <a href="https://doi.org/10.1007/978-3-319-67636-4_21">10.1007/978-3-319-67636-4_21</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201710-paper-conference-springer-iissc.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Placido Bramanti and Massimo Villari. “<em>Heart Disorder Detection with Menard Algorithm on Apache Spark</em>”. Service-Oriented and Cloud Computing, ESOCC 2017, Oslo, Norwey, September 2017, pp. 229-237 (doi: <a href="https://doi.org/10.1007/978-3-319-67262-5_17">10.1007/978-3-319-67262-5_17</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201710-paper-conference-springer-esocc.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Antonino Galletta and Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Massimo Villari. “<em>BOSS: A Multitenancy Ad-Hoc Service Orchestrator for Federated Openstack Clouds</em>”. 2017 IEEE 5th International Conference on Future Internet of Things and Cloud (FiCloud), Prague, Czech Republic, August 2017, pp. 351-357 (doi: <a href="https://doi.org/10.1109/FiCloud.2017.10">10.1109/FiCloud.2017.10</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201708-paper-conference-ieee-ficloud.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Antonio Celesti and Lorenzo Carnevale and Antonino Galletta and Maria Fazio and Massimo Villari. “<em>A Watchdog Service Making Container-Based Micro-services Reliable in IoT Clouds</em>”. 2017 IEEE 5th International Conference on Future Internet of Things and Cloud (FiCloud), Prague, Czech Republic, August 2017, pp. 372-378 (doi: <a href="https://doi.org/10.1109/FiCloud.2017.57">10.1109/FiCloud.2017.57</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201708-paper-conference-ieee-ficloud-2.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Lorenzo Carnevale and Antonio Celesti and Maria Fazio and Placido Bramanti and Massimo Villari. “<em>How to enable clinical workflows to integrate big healthcare data</em>”. 2017 IEEE Symposium on Computers and Communications (ISCC), Heraklion, Greece, July 2017, pp. 857-862 (doi: <a href="https://doi.org/10.1109/ISCC.2017.8024634">10.1109/ISCC.2017.8024634</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201707-paper-conference-ieee-iscc.bib">bibtex</a>]</p>
+  </li>
+  <li>
+    <p>Fabrizio Celesti and Antonio Celesti and Lorenzo Carnevale and Antonino Galletta and Salvatore Campo and Agata Romano and Placido Bramanti and Massimo Villari. “<em>Big data analytics in genomics: The point on Deep Learning solutions</em>”. 2017 IEEE Symposium on Computers and Communications (ISCC), Heraklion, Greece, July 2017, pp. 306-309 (doi: <a href="https://doi.org/10.1109/ISCC.2017.8024547">10.1109/ISCC.2017.8024547</a>) [<a href="https://github.com/lcarnevale/publications/blob/main/bibtex/201707-paper-conference-ieee-iscc-2.bib">bibtex</a>]</p>
+  </li>
+</ol>
+
+:ET

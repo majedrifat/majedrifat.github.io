@@ -1,0 +1,9 @@
+I"Û<h2 id="projects">Projects</h2>
+<p>The following is a not exhaustive list of projects where I have been involved. It includes international and national fund projects, as well as personal (not fund) software projects.</p>
+
+<h4 id="micropython-libraries-and-drivers-series">MicroPython Libraries and Drivers Series</h4>
+<p><img src="https://img.shields.io/badge/project-software-green" /></p>
+
+<p>The <em>upy-series</em> (read it as micropy series) is a collection of libraries and drivers built for MicroPython-based boards (i.e., ESP32, RP2040, etc.). It includes, i.e., drivers for YL-69 or HL-69 resistive soil moisture sensor, relays, etc.<br />
+Resources: <a href="https://github.com/lcarnevale/upy-series">repository</a></p>
+:ET

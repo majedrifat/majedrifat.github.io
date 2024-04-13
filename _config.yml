@@ -1,0 +1,69 @@
+### your site title here
+title: Md Majedul Islam
+description: Graduate Research Assistant, Kennesaw State University
+
+baseurl: "" #name of GitHub repository
+url: "" #custom url to be used instead of GitHub repository
+email: mislam20@students.kennesaw.edu
+
+highlighter: rouge
+markdown: kramdown
+
+# Pagination
+# paginate: 4
+# permalink: /blog/:year/:title/
+# paginate_path: /blog/page:num/
+
+# Social media links in footer
+# facebook: "#"
+# twitter: "#"
+linkedin: "majedrifat"
+github: "majedrifat"
+# researchgate: "#"
+orcid: "0000-0002-9318-056X"
+# google_analytics: ""
+# scopus: "57195963279"
+google_scholar: "a_ArAUUAAAAJ&hl=en"
+# flickr: "lorenzocarnevale"
+
+
+# highlighter: rouge
+# markdown: kramdown
+
+# Tracker
+analytics:
+
+#optimization -> compress.html
+compress_html:
+  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
+  comments: ["<!-- ", " -->"]
+  endings: [all]
+  ignore:
+    envs: [local]
+  blanklines: false
+  profile: false
+  startings: []
+
+#collection
+# collections:
+#   projects:
+#     output: true
+#     permalink: :path/projects/
+
+sass:
+  sass_dir: /assets/css/_sass
+  style: compressed
+
+include:
+  - _pages
+  - _bibliography
+
+exclude:
+  - README.md
+  - LICENSE.md
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-email-protect
+  - jekyll-target-blank
