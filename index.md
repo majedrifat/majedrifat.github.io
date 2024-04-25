@@ -8,7 +8,7 @@ published: true
 ---
 
 #### Research Agenda
-My research agenda is centered around the integration of advanced computational technologies and artificial intelligence at the network's edge, addressing the unique challenges posed by such innovations. I am particularly interested in the application of computer vision, deep learning, and natural language processing to enhance distributed intelligent systems that support urban and community infrastructure. Currently, my work focuses on leveraging these technologies in the domain of healthcare, exploring the potential of medical data to revolutionize diagnostics and patient care through precision medicine. This involves not only the handling and analysis of large datasets but also the implementation of quantum machine learning techniques to achieve breakthroughs in computational speed and algorithm efficiency.
+My research agenda is centered around the integration of advanced computational technologies and artificial intelligence , addressing the unique challenges posed by such innovations. I am particularly interested in the application of computer vision, deep learning, and natural language processing to enhance distributed intelligent systems that support everyday life. Currently, my work focuses on leveraging these technologies in the domain of healthcare, exploring the potential of medical data to revolutionize diagnostics and patient care through Computer vision and quantum computing. This involves not only the handling and analysis of large datasets but also the implementation of quantum machine learning techniques to achieve breakthroughs in computational speed and algorithm efficiency.
 
 <!-- #### Open Calls
 
