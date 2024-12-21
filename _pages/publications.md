@@ -11,7 +11,7 @@ published: true
 ## Conference Papers
 
 #### 2024
-[Rabby, A. K. M., Ali, H., Islam, M. M., Abujar, S., & Rahman, F. (2024). Enhancement of Bengali OCR by Specialized Models and Advanced Techniques for Diverse Document Types. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1102-1109).](https://openaccess.thecvf.com/content/WACV2024W/WVLL/html/Rabby_Enhancement_of_Bengali_OCR_by_Specialized_Models_and_Advanced_Techniques_WACVW_2024_paper.html)
+Rabby, A. K. M., Ali, H., Islam, M. M., Abujar, S., & Rahman, F. (2024). Enhancement of Bengali OCR by Specialized Models and Advanced Techniques for Diverse Document Types. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1102-1109).(https://openaccess.thecvf.com/content/WACV2024W/WVLL/html/Rabby_Enhancement_of_Bengali_OCR_by_Specialized_Models_and_Advanced_Techniques_WACVW_2024_paper.html)
 
 #### 2023
 
