@@ -39,7 +39,7 @@ published: true
 [Islam, M. M., Rabby, A. S. A., Hasan, N., Nahar, J., & Rahman, F. (2021). Text-type extraction using a deep learning solution at the character level. In Soft Computing and Signal Processing: Proceedings of 3rd ICSCSP 2020, Volume 1 (pp. 253-262). Springer Singapore.](https://link.springer.com/chapter/10.1007/978-981-33-6912-2_23)
 
 
-[Masum, A. K. M., Majedul Islam, M., Abujar, S., Sorker, A. K., & Hossain, S. A. (2021). Bengali news headline generation on the basis of sequence to sequence learning using bi-directional RNN. In Soft Computing Techniques and Applications: Proceeding of the International Conference on Computing and Communication (IC3 2020) (pp. 491-501).] Springer Singapore.(https://link.springer.com/chapter/10.1007/978-981-15-7394-1_45)
+[Masum, A. K. M., Majedul Islam, M., Abujar, S., Sorker, A. K., & Hossain, S. A. (2021). Bengali news headline generation on the basis of sequence to sequence learning using bi-directional RNN. In Soft Computing Techniques and Applications: Proceeding of the International Conference on Computing and Communication (IC3 2020) (pp. 491-501). Springer Singapore.](https://link.springer.com/chapter/10.1007/978-981-15-7394-1_45)
 
 [Majedul Islam, M., Khushbu, S. A., & Islam, M. S. (2021). Predicting the Appropriate Category of Bangla and English Books for Online Book Store Using Deep Learning. In Soft Computing Techniques and Applications: Proceeding of the International Conference on Computing and Communication (IC3 2020) (pp. 409-421). Springer Singapore.]( https://link.springer.com/chapter/10.1007/978-981-15-7394-1_39 )
 
@@ -53,7 +53,8 @@ published: true
 [Rabby, A. S. A., Islam, M. M., Hasan, N., Nahar, J., & Rahman, F. (2020, July). Language detection using convolutional neural network. In 2020 11th International Conference on Computing, Communication and Networking Technologies (ICCCNT) (pp. 1-5). IEEE.](https://ieeexplore.ieee.org/abstract/document/9225610)
 
 #### 2019
+
 [Islam, M. M., Masum, A. K. M., Rabbani, M. G., Zannat, R., & Rahman, M. (2019, November). Performance measurement of multiple supervised learning algorithms for Bengali news headline sentiment classification. In 2019 8th International Conference System Modeling and Advancement in Research Trends (SMART) (pp. 235-239). IEEE.] (https://ieeexplore.ieee.org/abstract/document/9117477)
 
-[Islam, M. M., Rabby, A. S. A., Arfin, M. H. R., & Hossain, S. A. (2019, July). PataNET: A convolutional neural networks to identify plant from leaf images. In 2019 10th International Conference on Computing, Communication and Networking Technologies (ICCCNT) (pp. 1-6). IEEE.] (https://ieeexplore.ieee.org/abstract/document/8944667)
+[Islam, M. M., Rabby, A. S. A., Arfin, M. H. R., & Hossain, S. A. (2019, July). PataNET: A convolutional neural networks to identify plant from leaf images. In 2019 10th International Conference on Computing, Communication and Networking Technologies (ICCCNT) (pp. 1-6). IEEE.](https://ieeexplore.ieee.org/abstract/document/8944667)
 <!--  Lorenzo Carnevale, Luisa Damiano, Antonio Fleres, and Massimo Villari. “*Visitor Artwork Ambient and how Making New Functions of Cultural Heritage by Using Augmented Reality within an Ambient Intelligence*”. 2021 IEEE International Symposium on Mixed and Augmented Reality Adjunct (ISMAR-Adjunct). October 2021, pp. 8-12 (doi: [10.1109/ISMAR-Adjunct54149.2021.00013](https://doi.org/10.1109/ISMAR-Adjunct54149.2021.00013))-->
