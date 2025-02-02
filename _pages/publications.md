@@ -11,6 +11,10 @@ published: true
 ## Conference Papers
 
 #### 2024
+[Islam, Md Majedul, and Jing Selena He. "Abdominal Trauma Detection using Hybrid Quantum Machine Learning." 2024 IEEE International Conference on Big Data (BigData). IEEE, 2024.](https://ieeexplore.ieee.org/abstract/document/10825833)
+
+[Islam, Md Majedul, and Jing Selena He. "A Review on Quantum Machine Learning in Different Computer Vision Fields." 2024 IEEE International Performance, Computing, and Communications Conference (IPCCC). IEEE, 2024.](https://ieeexplore.ieee.org/abstract/document/10850394)
+
 [Rabby, A. K. M., Ali, H., Islam, M. M., Abujar, S., & Rahman, F. (2024). Enhancement of Bengali OCR by Specialized Models and Advanced Techniques for Diverse Document Types. In Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (pp. 1102-1109).](https://openaccess.thecvf.com/content/WACV2024W/WVLL/html/Rabby_Enhancement_of_Bengali_OCR_by_Specialized_Models_and_Advanced_Techniques_WACVW_2024_paper.html)
 
 #### 2023
