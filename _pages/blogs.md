@@ -5,7 +5,7 @@ permalink: /blog/
 published: true
 ---
 
-## Blogs
+## NEWS!
 
 #### 2023
 ##Comming Soon!
