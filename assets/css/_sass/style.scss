@@ -59,7 +59,7 @@ p a {
   -moz-transition: box-shadow ease 1s;
   transition: box-shadow ease 1s;
   &:hover {
-    color: lighten(var(--bg-color), 50%);
+    color: lighten($background-color, 50%);
     -webkit-box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
     box-shadow: inset 0 -100px 0 0 lighten($brand-color, 10%);
 
