@@ -17,14 +17,24 @@
   flex: 1 0 200px;
   border-radius: 15px;
   background: $projectbox;
-  @media (prefers-color-scheme: dark) {
-    background: $projectbox-dark;
-  }
   height: 200px;
   width: 100%;
   overflow: hidden;
   display: table;
+
+  // When user clicks the dark-mode button, use the dark project colour
+  body.dark & {
+    background: $projectbox-dark;
+  }
+
+  // Existing automatic dark-mode fallback (leave as-is)
+  @media (prefers-color-scheme: dark) {
+    background: $projectbox-dark;
+  }
 }
+
+
+
 
 .projectTile a {
   display: table-cell;
@@ -33,15 +43,27 @@
   cursor: pointer;
 }
 
+// .projectTile a span {
+//   display: flex;
+//   justify-content: center;
+//   color: $text-color ;
+//   @media (prefers-color-scheme: dark) {
+//     color: $text-color-dark;
+//   }
+// }
 .projectTile a span {
   display: flex;
   justify-content: center;
-  color: $text-color ;
+  color: var(--text-color);
+  body.dark & {
+    color: var(--text-color); // uses the --text-color from body.dark
+  }
+
+  // Existing automatic dark-mode fallback
   @media (prefers-color-scheme: dark) {
     color: $text-color-dark;
   }
 }
-
 .projectTile a span h2 {
   font-size: 1.5rem;
   padding: 1rem;
