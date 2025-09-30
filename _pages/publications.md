@@ -9,7 +9,8 @@ published: true
 
 
 ## Conference Papers
-
+#### 2025
+[Ram, A. S. R., Li, Y. J., Islam, M. M., & He, S. (2025, July). Psychophysiological Computational Modeling for Stress Management in VR Driving Simulation. In 2025 11th International Conference on Virtual Reality (ICVR) (pp. 60-65). IEEE.](https://ieeexplore.ieee.org/abstract/document/11172566)
 #### 2024
 [Islam, Md Majedul, and Jing Selena He. "Abdominal Trauma Detection using Hybrid Quantum Machine Learning." 2024 IEEE International Conference on Big Data (BigData). IEEE, 2024.](https://ieeexplore.ieee.org/abstract/document/10825833)
 
